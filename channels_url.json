@@ -1,0 +1,8 @@
+{
+    "ipv6list":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "iptvlist": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "yuechanlist":"https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+    "gdlist":"https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    "bgltlist":"https://iptv.im2k.com/bjuc.m3u",
+    "bjydlist":"https://iptv.im2k.com/bjm.m3u"
+}

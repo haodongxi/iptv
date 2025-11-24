@@ -1,0 +1,472 @@
+{
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_55": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江新闻",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江公共新闻",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江新闻.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_56": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江国际",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江国际",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江国际.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_57": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江少儿",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江少儿",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江少儿.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_58": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江教科",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江教科影视",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江教科影视.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_59": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "之江纪录",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "之江纪录",
+      "tvg-logo": "https://live.fanmingming.cn/tv/之江纪录.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_60": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江民生",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江民生休闲",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江民生休闲.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_61": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江经济",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江经视",
+      "tvg-logo": "https://live.fanmingming.cn/tv/浙江经济生活.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://live.fanmingming.com/tv/m3u/ipv6.m3u_62": {
+    "source_url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "channel_name": "浙江钱江",
+    "stream_url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "attributes": {
+      "tvg-name": "浙江钱江都市",
+      "tvg-logo": "https://live.fanmingming.cn/tv/钱江都市.png",
+      "group-title": "浙江频道"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_0": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "8TV",
+    "stream_url": "http://cdn6.163189.xyz/163189/8tv",
+    "attributes": {
+      "tvg-id": "8TV.my@SD",
+      "tvg-logo": "https://i.imgur.com/Jkx9W88.png",
+      "group-title": "Entertainment"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_1": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "ABN China (720p)",
+    "stream_url": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "attributes": {
+      "tvg-id": "ABNChina.us@SD",
+      "tvg-logo": "https://i.imgur.com/zagVLQH.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_2": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Angel TV Chinese (720p)",
+    "stream_url": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "AngelTV.in@Chinese",
+      "tvg-logo": "https://i.imgur.com/qKLEGU7.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_5": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "BabyFirst",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+    "attributes": {
+      "tvg-id": "BabyFirst.us@US",
+      "tvg-logo": "https://i.imgur.com/WxLHBwu.png",
+      "group-title": "Kids"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_6": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Beautiful Life TV",
+    "stream_url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "BeautifulLifeTV.tw@SD",
+      "tvg-logo": "https://i.imgur.com/hkwcBM9.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_11": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "CCTV+ 1 (600p) [Not 24/7]",
+    "stream_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "CCTVPlus1.cn@SD",
+      "tvg-logo": "https://i.imgur.com/U8d4Is6.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_12": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "CCTV+ 2 (600p) [Not 24/7]",
+    "stream_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "CCTVPlus2.cn@SD",
+      "tvg-logo": "https://i.imgur.com/qSg862A.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_16": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "CCTV-4 America (1080p)",
+    "stream_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+    "attributes": {
+      "tvg-id": "CCTV4America.cn@SD",
+      "tvg-logo": "https://i.imgur.com/gBbLyqh.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_35": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "CGNTV Chinese (1080p)",
+    "stream_url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "attributes": {
+      "tvg-id": "CGNTVChinese.tw@SD",
+      "tvg-logo": "https://i.imgur.com/bPoPAbR.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_36": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "CGTN (1080p)",
+    "stream_url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "attributes": {
+      "tvg-id": "CGTN.cn@SD",
+      "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_50": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "DAAI TV",
+    "stream_url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "attributes": {
+      "tvg-id": "DAAITV.id@SD",
+      "tvg-logo": "https://i.imgur.com/YC7JCHo.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_51": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "DHA (720p) [Not 24/7]",
+    "stream_url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "DHA.tr@SD",
+      "tvg-logo": "https://i.postimg.cc/HxbHLRd6/dha.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_64": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Global News (1080p)",
+    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
+    "attributes": {
+      "tvg-id": "GlobalNews.tw@SD",
+      "tvg-logo": "https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Mlw=s512-c-k-c0x00ffffff-no-rj",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_65": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "God Stands TV Chinese",
+    "stream_url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+    "attributes": {
+      "tvg-id": "GodStandsTV.pk@Chinese",
+      "tvg-logo": "https://i.imgur.com/EO6cYUI.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_67": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "GOOD TV CH1 綜合台 (720p) [Not 24/7]",
+    "stream_url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "attributes": {
+      "tvg-id": "GoodTV.tw@SD",
+      "tvg-logo": "https://i.imgur.com/k28Kc3o.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_68": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "GOOD TV CH2 真理台 (720p)",
+    "stream_url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "attributes": {
+      "tvg-id": "Good2.tw@SD",
+      "tvg-logo": "https://i.imgur.com/YxFRoft.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_82": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Jilin City Channel",
+    "stream_url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8",
+    "attributes": {
+      "tvg-id": "JilinCityChannel.cn@SD",
+      "tvg-logo": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+      "group-title": "Lifestyle"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_83": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Jilin Lifestyle Channel",
+    "stream_url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8",
+    "attributes": {
+      "tvg-id": "JilinLifestyleChannel.cn@SD",
+      "tvg-logo": "https://www.tvchinese.net/uploads/tv/jlshpd.jpg",
+      "group-title": "Lifestyle"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_84": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Jilin Movie Channel",
+    "stream_url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8",
+    "attributes": {
+      "tvg-id": "JilinMovieChannel.cn@SD",
+      "tvg-logo": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+      "group-title": "Movies"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_85": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Jilin Rural Channel",
+    "stream_url": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8",
+    "attributes": {
+      "tvg-id": "JilinRuralChannel.cn@SD",
+      "tvg-logo": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+      "group-title": "Education;Lifestyle;Science"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_88": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)",
+    "stream_url": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8",
+    "attributes": {
+      "tvg-id": "LLBNTVChinese.us@SD",
+      "tvg-logo": "https://i.imgur.com/C0jUDMn.png",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_93": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Metro Globe Network (1080p) [Not 24/7]",
+    "stream_url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "MetroGlobeNetwork.id@SD",
+      "tvg-logo": "https://i.imgur.com/aiiinzg.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_94": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "meWATCH LIVE 1 (1080p)",
+    "stream_url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+    "attributes": {
+      "tvg-id": "meWATCHLIVE1.sg@SD",
+      "tvg-logo": "https://i.imgur.com/ppxUDxB.png",
+      "group-title": "Entertainment"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_99": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Nei Monggol TV Agriculture & Animal Channel",
+    "stream_url": "http://play1-qk.nmtv.cn/live/1686561299036179.m3u8",
+    "attributes": {
+      "tvg-id": "NeiMonggolTVAgricultureAnimalChannel.cn@SD",
+      "tvg-logo": "https://i.imgur.com/vTxOVw6.png",
+      "group-title": "Culture"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_100": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Nei Monggol TV Children Channel",
+    "stream_url": "http://play1-qk.nmtv.cn/live/1686560464515368.m3u8",
+    "attributes": {
+      "tvg-id": "NeiMonggolTVChildrenChannel.cn@SD",
+      "tvg-logo": "https://i.imgur.com/MOMEgMQ.png",
+      "group-title": "Kids"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_101": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Nei Monggol TV Culture Entertainment Channel",
+    "stream_url": "http://play1-qk.nmtv.cn/live/1686561195713372.m3u8",
+    "attributes": {
+      "tvg-id": "NeiMonggolTVCultureEntertainmentChannel.cn@SD",
+      "tvg-logo": "https://i.imgur.com/HF8m3oK.png",
+      "group-title": "Entertainment"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_102": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Nei Monggol TV Economic & Life Channel",
+    "stream_url": "http://play1-qk.nmtv.cn/live/1686562470947181.m3u8",
+    "attributes": {
+      "tvg-id": "NeiMonggolTVEconomicLifeChannel.cn@SD",
+      "tvg-logo": "https://i.imgur.com/M4xXzIr.png",
+      "group-title": "Business"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_103": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Nei Monggol TV News Channel",
+    "stream_url": "http://play1-qk.nmtv.cn/live/1686560423879174.m3u8",
+    "attributes": {
+      "tvg-id": "NeiMonggolTVNewsChannel.cn@SD",
+      "tvg-logo": "https://i.imgur.com/BaiDNom.png",
+      "group-title": "News"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_104": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV",
+    "stream_url": "https://live.ntdtv.com/live900/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTV.us@East",
+      "tvg-logo": "https://i.postimg.cc/XYGstDdJ/ntdtv.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_105": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV Asia-Pacific",
+    "stream_url": "https://live.ntdtv.com/aplive200/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTVAsiaPacific.us@SD",
+      "tvg-logo": "https://i.imgur.com/iyFXcDy.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_106": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV Canada",
+    "stream_url": "https://live.ntdtv.com/mllive860/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTVCanada.us@East",
+      "tvg-logo": "https://i.imgur.com/iyFXcDy.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_107": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV Canada West",
+    "stream_url": "https://live.ntdtv.com/cwlive220/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTVCanada.us@West",
+      "tvg-logo": "https://i.imgur.com/iyFXcDy.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_108": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV China",
+    "stream_url": "http://cnhls.ntdtv.com/cn/live400/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTVChina.us@SD",
+      "tvg-logo": "https://i.imgur.com/OpWTWdh.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_109": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "NTD TV West",
+    "stream_url": "https://live.ntdtv.com/uwlive990/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "NTDTV.us@West",
+      "tvg-logo": "https://i.postimg.cc/XYGstDdJ/ntdtv.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_110": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Okey [Geo-blocked]",
+    "stream_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "attributes": {
+      "tvg-id": "Okey.my@SD",
+      "tvg-logo": "https://i.imgur.com/V2jREQ5.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_111": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Ou-Mun Macau Satellite Ch. 96 (720p)",
+    "stream_url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+    "attributes": {
+      "tvg-id": "TDMMacauSatellite.mo@SD",
+      "tvg-logo": "https://i.imgur.com/iIfZsD6.png",
+      "group-title": "General"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_114": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "Peace TV Chinese (1080p)",
+    "stream_url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
+    "attributes": {
+      "tvg-id": "PeaceTVChinese.ae@SD",
+      "tvg-logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+      "group-title": "Religious"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_121": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]",
+    "stream_url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+    "attributes": {
+      "tvg-id": "RTHKTV31.hk@SD",
+      "tvg-logo": "https://i.imgur.com/kf818kM.png",
+      "group-title": "Undefined"
+    }
+  },
+  "https://iptv-org.github.io/iptv/languages/zho.m3u_122": {
+    "source_url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "channel_name": "RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]",
+    "stream_url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+    "attributes": {
+      "tvg-id": "RTHKTV32.hk@SD",
+      "tvg-logo": "https://i.imgur.com/MXLuUoU.png",
+      "group-title": "Undefined"
+    }
+  }
+}
