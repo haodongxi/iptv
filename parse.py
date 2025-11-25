@@ -123,23 +123,15 @@ def sanitize_filename(filename):
     invalid_chars = r'[<>:"/\\|?*]'
     return re.sub(invalid_chars, '_', filename)
 
-
-if __name__ == "__main__":
-    # 默认使用您提供的URL
-
+def main():
+    if os.path.exists('channels.json'):
+        os.remove('channels.json')
     channels = json.load(open('channels_url.json'))
     if channels is not None:
         for key, url in channels.items():
             print(f"正在解析 {key}: {url}")
             parse_m3u_to_json(url)
 
-    # m3u_url = "https://iptv-org.github.io/iptv/languages/zho.m3u"
-    # print(f"开始解析M3U文件: {m3u_url}")
-    # result = parse_m3u_to_json(m3u_url)
-    
-    # if result.get("success"):
-    #     print("✓ M3U文件解析完成！")
-    #     print(f"• 总频道数: {result['total_channels']}")
-    #     print(f"• 输出文件: {result['output_file']}")
-    # else:
-    #     print(f"✗ 解析失败: {result.get('error')}")
+if __name__ == "__main__":
+    # 默认使用您提供的URL
+    main()

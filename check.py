@@ -74,6 +74,11 @@ def check_playable_channels_from_json(input_file="channels.json", output_file="p
     except Exception as e:
         return {"error": f"处理文件时出错: {str(e)}"}
 
+def main():
+    if os.path.exists('playable_channels.json'):
+        os.remove('playable_channels.json')
+    check_playable_channels_from_json()
+
 if __name__ == "__main__":
-    result = check_playable_channels_from_json()
-    print(result)
+    main()
+    
