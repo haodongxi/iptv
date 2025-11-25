@@ -5,6 +5,7 @@ name = "tsinghua"
 
 [packages]
 requests = "*"
+supabase = "*"
 
 [dev-packages]
 
