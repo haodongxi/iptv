@@ -226,6 +226,40 @@ class ChannelDB:
             print(f"删除频道源失败: {e}")
             return False
 
+    def clear_all_channels(self) -> bool:
+        """
+        清空所有频道数据
+        
+        Returns:
+            bool: 是否清空成功
+        """
+        try:
+            # 删除所有频道（会级联删除所有频道源）
+            result = self.supabase.table("channels").delete().neq("id", 0).execute()
+            
+            print(f"已清空 {len(result.data)} 条频道数据")
+            return True
+        except Exception as e:
+            print(f"清空频道数据失败: {e}")
+            return False
+
+    def clear_all_channel_sources(self) -> bool:
+        """
+        清空所有频道源数据
+        
+        Returns:
+            bool: 是否清空成功
+        """
+        try:
+            # 删除所有频道源
+            result = self.supabase.table("channel_sources").delete().neq("id", 0).execute()
+            
+            print(f"已清空 {len(result.data)} 条频道源数据")
+            return True
+        except Exception as e:
+            print(f"清空频道源数据失败: {e}")
+            return False
+
     def batch_insert_channels_from_json(self, json_file_path: str) -> Dict:
         """
         从JSON文件批量插入频道数据
@@ -317,6 +351,10 @@ def main():
         print("✓ 数据库连接初始化成功")
         print("开始同步频道数据到数据库...")
         
+        #删除所有的数据，清空表内容
+        db.clear_all_channels()
+        db.clear_all_channel_sources()
+
         # 从channels_final.json导入数据
         result = db.batch_insert_channels_from_json("channels_final.json")
         
@@ -337,6 +375,29 @@ def main():
             
     except Exception as e:
         print(f"✗ 同步过程中出错: {e}")
+
+
+def clear_database():
+    """
+    清空数据库中的所有频道和频道源数据
+    """
+    try:
+        # 初始化数据库连接
+        db = ChannelDB()
+        print("✓ 数据库连接初始化成功")
+        
+        # 清空所有数据
+        print("开始清空数据库...")
+        channels_cleared = db.delete_channel_source
+        sources_cleared = db.clear_all_channel_sources()
+        
+        if channels_cleared and sources_cleared:
+            print("✓ 数据库清空完成！")
+        else:
+            print("✗ 数据库清空失败！")
+            
+    except Exception as e:
+        print(f"✗ 清空数据库过程中出错: {e}")
 
 
 if __name__ == "__main__":
