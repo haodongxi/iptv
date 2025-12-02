@@ -9,6 +9,7 @@ import arrange_channel as ac
 import re_check as rc
 import check as ck
 import parse as pr
+import sync_database as sd
 
 # 使用示例
 if __name__ == "__main__":
@@ -21,7 +22,9 @@ if __name__ == "__main__":
             pr.main()
             ck.main()
             ac.main()
+            sd.main()
         elif type == "component":
             rc.main()
+            sd.main()
         else :
             print("暂时没有方式可以处理")
